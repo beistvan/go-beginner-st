@@ -1,2 +1,3 @@
-# go-beginner-st
+# Go for Beginners
+
 Go for Beginners
